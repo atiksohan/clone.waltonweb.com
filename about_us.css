@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#about_us{
+	padding: 20px;
+	margin: 100px 0px;
+}
+
+#about_us .about_text h5{
+	border-left: 3px solid black;
+	padding-left: 3px;
+	color: lightgray;
+}
+
+#about_us .about_text h4{
+	font-weight: bold;
+	color: darkgreen;
+	margin-bottom: 25px;
+}
+
+#about_us button{
+	background-image: linear-gradient(to right, red , yellow);
+	padding: 2px 15px;
+}
+
+#about_us .img_border{
+	height: 300px;
+	width: 350px;
+	border: solid black 3px;
+	margin-left: 120px;
+}
+
+#about_us img{
+	height: 300px;
+	width: 350px;
+	margin: -360px 0px 0px 100px;
+}

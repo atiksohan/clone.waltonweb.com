@@ -1,0 +1,41 @@
+*{
+	padding: 0px 10px;
+}
+
+body section{
+	background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+#after_sale_service h3{
+	color: blue;
+	margin-top: 15px;
+  margin-bottom: -1.5rem;
+}
+
+#after_sale_service .col-md-4{
+	text-align: center;
+	color: white;
+	border: 3px solid lightgray;
+	margin: 20.1px;
+  width: 30%;
+  padding: 80px 0px;
+	box-shadow: black 10px 10px 5px;
+	background-image: linear-gradient(to right, #18085E, #46188C);
+	font-size: 20px;
+	font-style: oblique;
+} 
+
+#after_sale_service .border{
+	width: 450px;
+	color: orange;
+	height: 3px;
+	margin-top: 30px;
+	margin-bottom: -10px;
+}
+
+#after_sale_service .col-md-4:hover{
+	color: #2792CF;
+	box-shadow: black 0px 0px 15px;
+}

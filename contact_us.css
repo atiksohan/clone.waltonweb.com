@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px
+}
+
+#contact_us{
+	background-color: #B2E0DF;
+	padding: 1px 50px;
+}
+
+#contact_us .row{
+	background-color: white;
+	margin: 80px;
+	padding: 45px 0px;
+}
+
+#contact_us .left_side{
+	text-align: center;
+}
+
+#contact_us .col-md-1{
+	border-left: solid green 2px;
+	margin: 40px 0px;
+}
+
+#contact_us hr{
+	width: 220px;
+	color: green;
+	margin-top: -3px;
+}
+
+#contact_us h4{
+	color: green;
+	font-weight: bold;
+}
+
+#contact_us .svg-inline--fa{
+	color: green;
+	height: 2em;
+}
+
+form input{
+	height: 35px;
+	width: 635px;
+	margin-bottom: 10px;
+	padding-left: 8px;
+}
+
+form textarea{
+	height: 80px;
+	width: 635px;
+	margin-bottom: 10px;
+	padding-left: 8px;
+}
+
+[type=submit]{
+	width: 120px;
+	background-color: green;
+	padding: 0px 0px 4px 0px;
+	color: white;
+}
+
+[type=submit]:hover{
+	color: black;
+	background-color: skyblue;
+}
